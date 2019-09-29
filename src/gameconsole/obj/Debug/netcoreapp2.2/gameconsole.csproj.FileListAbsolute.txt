@@ -1,0 +1,11 @@
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/bin/Debug/netcoreapp2.2/gameconsole.deps.json
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/bin/Debug/netcoreapp2.2/gameconsole.runtimeconfig.json
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/bin/Debug/netcoreapp2.2/gameconsole.runtimeconfig.dev.json
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/bin/Debug/netcoreapp2.2/gameconsole.dll
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/bin/Debug/netcoreapp2.2/gameconsole.pdb
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.csprojAssemblyReference.cache
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.csproj.CoreCompileInputs.cache
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.AssemblyInfoInputs.cache
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.AssemblyInfo.cs
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.dll
+/Users/luishinostroza/CSharpPractice/GameConsole/src/gameconsole/obj/Debug/netcoreapp2.2/gameconsole.pdb
